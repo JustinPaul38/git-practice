@@ -1,0 +1,13 @@
+print("First name:", end="")
+firstname = input("")
+print("\nLast name:", end="")
+lastname = input("")
+print("\nMiddle initial:", end="")
+middlein = input("")
+print("\nAge:", end="")
+age = input("")
+
+print(f"Hello everyone, my name is {firstname} {middlein} {lastname}and my age is {age}")
+
+
+
