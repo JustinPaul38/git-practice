@@ -36,3 +36,6 @@ print("11. Access individual item: ",random_list[4])
 
 
 print("Hello World")
+
+
+print("Blanket statement")
